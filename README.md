@@ -1,6 +1,9 @@
-Prazer ! me chamo Wesley 
+<h1>@Wesley 🩸 <h1> 
 
-- 👀 Entusiasta do front end / web designer 
+- 👩‍💻 Entusiasta da tecnologia 
+- 👾 dev front end / web designer 
 - 📫 wesleymendd@outlook.com
+
+![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=ttkwesley&show_icons=true&theme=highcontrast)
 
 
