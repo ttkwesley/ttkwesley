@@ -1,8 +1,8 @@
 <h1 align='center'>@Wesley 🩸<h1>
 
-👩‍💻 Entusiasta da tecnologia <br>
-👾 Front end / web designer <br>
-📫 wesleymendd@outlook.com
+• 👩‍💻 Entusiasta da tecnologia <br>
+• 👾 Front end / web designer <br>
+• 📫 wesleymendd@outlook.com
 
 <div align='center'>
   <a href="https://github.com/ttkwesley">
