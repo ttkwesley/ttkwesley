@@ -1,4 +1,4 @@
-<h1 align='center'>@Wesley 🩸<h1>
+<h1 align='center'>@Wesley <h1>
 
 
 <div>
