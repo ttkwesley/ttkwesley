@@ -3,7 +3,6 @@
 
 <div>
   <h4>• SOBRE</h4> 
-    <p>👩‍💻 Entusiasta da tecnologia</p>
     <p> 👾 Front end / web designer</p>
     <p> 📫 wesleymendd@outlook.com</p>
 
