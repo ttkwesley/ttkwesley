@@ -12,7 +12,7 @@
 </div>
 
  <div align='center'>
-<h4>• SKILLS</h4>
+<h4>-- SKILLS -- </h4>
   <img height="50" width="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
   <img height="50" width="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
   <img height="50" width="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
@@ -21,6 +21,6 @@
  </div>
 
  <div align='center'> 
- <h4>• NETWORKS</h4>
+ <h4>-- NETWORKS --</h4>
   <a href="https://www.behance.net/offfwesley" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"</a>
  </div>
