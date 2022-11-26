@@ -6,9 +6,9 @@
   </div>
   
 <div>
-  <a href="https://github.com/ttkwesley">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ttkwesley&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttkwesley&layout=compact&langs_count=7&theme=highcontrast"/>
+ <a href="https://github.com/ttkwesley">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttkwesley&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttkwesley&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
  <div align='center'>
