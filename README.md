@@ -13,7 +13,6 @@
   <img height="50" width="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
   <img height="50" width="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
   <img height="50" width="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
-  <img height="50" width="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg'>
   <img height="50" width="50" src='https://cdn-icons-png.flaticon.com/512/5968/5968520.png'> 
   <img height="50" width="50" src='https://cdn-icons-png.flaticon.com/512/919/919830.png'>
   <img height="50" width="50" src='https://cdn-icons-png.flaticon.com/512/919/919836.png'>
